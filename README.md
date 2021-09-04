@@ -1,4 +1,5 @@
-# hello-vue
+# simple-quizz
+A demo of Vuejs
 
 ## Project setup
 ```
